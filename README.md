@@ -9,6 +9,7 @@
 * [Prerequisites](#Prerequisites)
 * [Code Organization](#Code-Organization)
 * [Dataset](#Dataset)
+* [Data Collection](#Data-Collection)
 * [Data Visualization](#Data-Visualization)
 * [Model Training](#Model-Training)
 
@@ -68,7 +69,14 @@
   - [sleep stage](https://developer.samsung.com/health/partner-only/server/api/data-types/sleep-stage)
   - [heart rate](https://developer.samsung.com/health/partner-only/server/api/data-types/heart-rate)
   - [step daily trend](https://developer.samsung.com/health/partner-only/server/api/data-types/daily-step-count-trend)
- 
+
+## Data Collection
+- <b>Heart Rate Daily and Weekly Pattern</b> & <b>Heart Rate Stacked Plot vs Blood Pressure</b>
+<p float="left">
+  <img src="https://github.com/kwanmolee/Blood-Pressure-Prediction-and-Peronalized-Health-Behavior-Recommendation/blob/master/data_collection.png" width="450"/>
+</p>
+
+
 ## Data Visualization
 There are some examples demonstrated below.
 - <b>Heart Rate Daily and Weekly Pattern</b> & <b>Heart Rate Stacked Plot vs Blood Pressure</b>
