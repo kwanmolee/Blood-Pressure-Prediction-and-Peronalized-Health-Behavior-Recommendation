@@ -71,7 +71,7 @@
   - [step daily trend](https://developer.samsung.com/health/partner-only/server/api/data-types/daily-step-count-trend)
 
 ## Data Collection
-- <b>Heart Rate Daily and Weekly Pattern</b> & <b>Heart Rate Stacked Plot vs Blood Pressure</b>
+Data collection procedure can be briefly summarized in the following chart.
 <p float="left">
   <img src="https://github.com/kwanmolee/Blood-Pressure-Prediction-and-Peronalized-Health-Behavior-Recommendation/blob/master/data_collection.png" width="450"/>
 </p>
