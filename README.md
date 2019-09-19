@@ -2,7 +2,11 @@
 [![Blood Pressure](https://img.shields.io/badge/Blood%20Pressure%20Data-Omron%20Wellness-orange)](https://www.omronwellness.com/Home/Landing)
 [![Samsung Health](https://img.shields.io/badge/Health%20%26%20Fitness%20Data-Samsung%20Galaxy%20Watch-9cf)](https://www.samsung.com/au/support/mobile-devices/galaxy-watch-samsung-health/)
 [![Project Status](https://img.shields.io/badge/Project%20Status-1st%20Stage-ff69b4)](https://github.com/kwanmolee/Blood-Pressure-Prediction-and-Peronalized-Health-Behavior-Recommendation)
+The project, in collaboration with UCSD Health and Samsung, aimed to realize proactive, continuous and personalized virtual healthcare utilizing health and fitness data collected from Samsung Galaxy Watch. We work to propose machine learning based healthcare analytics and maximize automated and continuous collection of user data like calories, exercises, sleep, heart rate, step count, contextual data and etc.
 
+Photoplethysmogram (PPG) signals collected by Galaxy Watch were also utilized to estimate continuous blood pressure. Using the proposed feature engineering and selection techniques, we worked to address the limited, noisy, unaligned and irregularly sampled data collected from various sources.
+
+For each chronic condition addressed, like blood pressure and diabetes, we worked to develop personalized prediction and feature importance models based on the collected data and the proposed ML techniques. Not only would the accuracte prediction on chronic conditions indicator based on past health behaviors and context be tailored for the users, but also the most important features influencing the tendency of blood pressure would be given for reference.
 
 
 ## Content Overview
