@@ -9,8 +9,6 @@ Photoplethysmogram (PPG) signals collected by Galaxy Watch were also utilized to
 
 For each chronic condition addressed, like blood pressure and diabetes, we worked to develop personalized prediction and feature importance models based on the collected data and the proposed ML techniques. Not only would the accuracte prediction on chronic conditions indicator based on past health behaviors and context be tailored for the users, but also the most important features influencing the tendency of blood pressure would be given for reference.
 
-More details can be found in the [report](https://github.com/kwanmolee/Blood-Pressure-Prediction-and-Peronalized-Health-Behavior-Recommendation/blob/master/report.pdf).
-
 
 ## Content Overview
 * [Prerequisites](#Prerequisites)
